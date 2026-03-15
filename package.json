@@ -1,0 +1,28 @@
+{
+  "name": "openclaw-skill-uniimage",
+  "version": "1.0.0",
+  "description": "Unified multi-platform AI image generation skill for OpenClaw",
+  "main": "uni-image-proxy.js",
+  "scripts": {
+    "start": "node uni-image-proxy.js"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "image-generation",
+    "seedream",
+    "qwen",
+    "gemini",
+    "volcengine",
+    "dashscope",
+    "nano-banana",
+    "ai-art"
+  ],
+  "author": "sangjiexun",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangjiexun/openclaw-skill-UniImage.git"
+  },
+  "homepage": "https://github.com/sangjiexun/openclaw-skill-UniImage#readme"
+}
